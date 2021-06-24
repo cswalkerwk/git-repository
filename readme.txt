@@ -4,4 +4,8 @@ modify
 git tracks changes
 
 dev change
+//merge conflict
+third modify
+bug test
+
 creating a new branch is quick and simple.
